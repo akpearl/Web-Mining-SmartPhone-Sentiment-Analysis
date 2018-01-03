@@ -1,2 +1,2 @@
 # Web-Mining-iPhone-Sentiment-Analysis
-Sentiment analysis toward smart phones using Amazon Web Services and classification methods in R.
+Conducted sentiment analysis toward smart phones using Amazon Web Services (AWS):Elastic Compute Cloud (EC2), Elastic MapReduce (EMR), Simple Storage Services (S3), and Amazon’s Common Crawl data.  Analyzed web-collected sentiment results by using various algorithms in R.  The results of the finding were used by a government health agency to determine which smart phone is best suited to install medical apps for use by aid workers in developing countries.
